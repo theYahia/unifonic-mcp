@@ -1,7 +1,7 @@
 {
   "name": "@theyahia/unifonic-mcp",
-  "version": "1.1.0",
-  "description": "MCP server for Unifonic CPaaS (SMS, Voice, WhatsApp - Saudi Arabia)",
+  "version": "1.1.1",
+  "description": "MCP server for Unifonic — SMS, voice, WhatsApp CPaaS (Saudi Arabia)",
   "type": "module",
   "main": "dist/index.js",
   "bin": {
@@ -45,7 +45,9 @@
     "saudi-api",
     "cpaas",
     "sms",
-    "typescript"
+    "typescript",
+    "api",
+    "voice"
   ],
   "license": "MIT",
   "repository": {
